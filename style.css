@@ -1,0 +1,21 @@
+div {
+    text-align: center;
+}
+
+.cell {
+    width: 160px;
+    height: 160px;
+    font-size: 100px;
+    vertical-align: bottom;
+}
+
+#status {
+    font-size: 50px;
+    margin: 20px;
+}
+
+#restart-game {
+    font-size: 25px;
+    margin: 20px;
+    display: none;
+}
